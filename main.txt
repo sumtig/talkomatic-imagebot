@@ -1,0 +1,30 @@
+Image Bot v0.5 (New, Experimental.)
+changelog:
+ITS USING A BOT FINALLY
+
+Made by zatr554 (technically claude)
+RULES:
+ - no austrian painter images (the ones that exist right now were made before this rule existed)
+ - no completely random image abusing pls🙏
+ current user: {user}
+
+listed images:
+None...
+
+Commands:
+ - New (link to image or THE image) [creates a new image, with the default scaling being 50 and the brightness and contrast being 0.]
+ - Open (image name) [opens an image]
+ - Exit [exits the image to the home menu]
+ - Text (text) [makes an image of text. image settings apply to this too.]
+ - suggest [yknow]
+ - use image bot [lets you... use image bot]
+ - exit image bot [exits image bot and unlocks your place]
+
+SOCIALS:
+Discord: @zatr554
+Youtube: youtu.be/@zatr554
+Github: github.com/sumtig
+
+how it works: made with node.js by claude! not technically me ;-; :(
+PLEASE SUGGEST WHAT I SHOULD CHANGE OR ADD.
+lazesoftware.com/en/tool/brailleaagen/
