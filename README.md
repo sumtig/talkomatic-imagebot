@@ -9,3 +9,13 @@ can load images and export them. video support, experimental.
 4. have fun!
 # info
 made fully by claude, to be actually a working bot. do `npm install` in the folder.
+FOR VIDEO FUNCTIONALITY, create a folder called 'videos'. put an animation in there with every frame being seperated with 2 enters.
+example:
+
+frame 1
+
+frame 2
+
+etc.
+add a 'name-config.txt' when adding the animation. add a 'delay: desired number' inside it.
+hope this does your day!
